@@ -1,9 +1,10 @@
 ---
-title: I baught a chair and here's what I learned
-date: 2022-04-09
-author: Pouya
+title: Why I stopped using classical text editors
+date: 2024-01-24
+author: Bravotango
+categories: Tools & Tips
 desc: Laudantium iste repellat et. Et officiis corporis. At est placeat voluptas aut. Soluta dolor quae quae tempora. Voluptatibus quibusdam natus. Facilis ea repellendus expedita voluptatum rerum autem.
-img: https://api.lorem.space/image/furniture?w=800&h=500
+img: 
 imgWidth: 800
 imgHeight: 500
 ---

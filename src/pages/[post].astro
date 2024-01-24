@@ -40,6 +40,9 @@ const { post: { Content }, post } = Astro.props;
 				{post.author &&
 					<span class="text-sm text-base-content/70">By {post.author}</span>
 				}
+				{post.categories &&
+					<span class="text-sm text-base-content/70">By {post.categories}</span>
+				}
 			</div>
 			<div>
 				<Content />

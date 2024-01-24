@@ -7,6 +7,7 @@ export type Post = {
 	slug: string,
 	desc: string,
 	author: string,
+	categories: string,
 	timestamp: number,
 	draft: boolean,
 	date: string,
